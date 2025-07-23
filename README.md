@@ -1,9 +1,9 @@
-# Tic-Tac-Toe# Tic-Tac-Toe AI {#tic-tac-toe-ai}
+# Tic-Tac-Toe AI 
 
-## 1. Project Overview {#overview}
+## 1. Project Overview 
 An implementation of the classic Tic-Tac-Toe game featuring an unbeatable AI opponent using the Minimax algorithm with Alpha-Beta pruning. This project demonstrates fundamental concepts in game theory and search algorithms.
 
-## 2. Features {#features}
+## 2. Features 
 - 🎮 Human vs AI gameplay
 - 🤖 Unbeatable AI using Minimax algorithm
 - ⚡ Optimized with Alpha-Beta Pruning
@@ -11,7 +11,7 @@ An implementation of the classic Tic-Tac-Toe game featuring an unbeatable AI opp
 - 🔄 Option to play first or second
 - 🖥️ Clean console-based interface
 
-## 3. Algorithms {#algorithms}
+## 3. Algorithms 
 ### Minimax Implementation:
 ```python
 def minimax(board, depth, is_maximizing):
